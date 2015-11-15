@@ -5,7 +5,7 @@ Defines the skeleton of an algorithm in a method, deferring some steps to subcla
 
 <u>When Would I Use This Pattern?</u>
 
-The Template Method pattern is used when 
+The Template Method pattern is used when:n 
 <ul>
 <li>When behaviour of an algorithm can vary, you let subclasses implement the behaviour through overriding
 <li>You want to avoid code duplication, implementing variations of the algorithm in subclasses
